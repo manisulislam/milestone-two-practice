@@ -84,6 +84,9 @@ ul li {
     padding-left: 95px;
     margin-bottom: 62px;
     margin: 60px;
+    border-top: 1px solid black;
+        border-bottom: 1px solid black;
+   
     
 
 }
@@ -102,11 +105,17 @@ ul li {
         height: 476px;
         background-color: #FFFFFF; */
 /* } */
+/* .tripod img {
+    width: 250px;
+} */
 
 .popular-container {
     margin-bottom: 138px;
 }
-
+.flex-tripod{
+    border: 1px solid red;
+        margin: 10px;
+}
 .popular {
     color: #3A3A3A;
     font-weight: 600px;
