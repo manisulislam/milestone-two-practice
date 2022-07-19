@@ -84,9 +84,7 @@ ul li {
     padding-left: 95px;
     margin-bottom: 62px;
     margin: 60px;
-    border: 2px solid #eee;
-    background-color: #eee;
-    box-shadow: 0px 1px 5px 0px;
+    
 
 }
 
@@ -98,12 +96,12 @@ ul li {
 }
 
 /* section grid start */
-.border-anis{
+/* .border-anis{
     border: 1px solid red;
     width: 329px;
         height: 476px;
-        background-color: #FFFFFF;
-}
+        background-color: #FFFFFF; */
+/* } */
 
 .popular-container {
     margin-bottom: 138px;
