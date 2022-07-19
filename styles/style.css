@@ -84,6 +84,9 @@ ul li {
     padding-left: 95px;
     margin-bottom: 62px;
     margin: 60px;
+    border: 2px solid #eee;
+    background-color: #eee;
+    box-shadow: 0px 1px 5px 0px;
 
 }
 
@@ -94,7 +97,14 @@ ul li {
     padding: 15px;
 }
 
-/* sectio grid start */
+/* section grid start */
+.border-anis{
+    border: 1px solid red;
+    width: 329px;
+        height: 476px;
+        background-color: #FFFFFF;
+}
+
 .popular-container {
     margin-bottom: 138px;
 }
@@ -193,12 +203,26 @@ footer {
     padding-top: 50px;
 }
 
+.all-rights {
+    margin-bottom: 17px;
+}
+
 .social-links {
     display: flex;
     align-items: center;
+    justify-content: center;
 
 
 }
-.border-effect{
+
+.icon {
+    padding: 23px;
+}
+
+.border-effect {
     border: 1 fx solid tomato;
+}
+
+.anis {
+    margin-bottom: 15px;
 }
